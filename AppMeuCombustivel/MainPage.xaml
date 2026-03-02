@@ -6,7 +6,7 @@
     <StackLayout Spacing="10" 
                  Margin="10">
         
-        <Label Text="Qual combustível compensa mais?"
+        <Label Text="Qual combustível compensa mais? Teste git"
                FontSize="Medium"
                FontAttributes="Bold"
                HorizontalTextAlignment="Center" />
